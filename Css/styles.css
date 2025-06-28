@@ -148,9 +148,6 @@ margin: 0;
         height: 100%;
         margin: 0;
         padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
 
 .competencias{
@@ -159,3 +156,4 @@ margin: 0;
         margin: 0;
         padding: 0;
         background-color: red;
+}
