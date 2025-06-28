@@ -16,7 +16,6 @@ width: 100%;
 height: 100px;
 padding: 0;
 margin: 0;
-background-color: yellow;
 }
     header.botonera{
         padding: 0;
@@ -76,4 +75,87 @@ background-color: yellow;
         height: 15%;
         margin: 30px 0 0 0;
     }
-    
+.contenido2{
+    width: 100%;
+    height: 600px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+    .fotografia{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: orange;
+    }
+    .texto1{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .texto1 h3{
+        background-color: tomato;
+        width: 40%;
+        height: 5%;
+        margin: 150px 0 0 50px;
+        padding: 0%;
+    }
+    .texto1 h4{
+        background-color: yellow;
+        width: 75%;
+        height: 5%;
+        margin: 20px 0 0 50px;
+        padding: 0%;
+    }
+    .texto1 p{
+        background-color: green;
+        width: 85%;
+        height: 30%;
+        margin: 20px 0 0 50px;
+        padding: 0%;
+    }
+.contenido3{
+    width: 100%;
+    height: 600px;
+    padding: 0;
+    margin: 0;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.servicios{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: blue;
+    }
+    .servicios h3{
+        background-color: brown;
+        width: 40%;
+        height: 5%;
+        margin: 80px 0 0 50px;
+        padding: 0%;
+    }
+    .iconos{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.competencias{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: red;
