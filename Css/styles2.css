@@ -1,0 +1,21 @@
+/*Estados del boton "hover"*/
+.menu button{
+    margin: 0;
+    padding: 0;
+    width: 0;
+    height: 0;
+    background-color: black;
+    color:beige;
+    border-radius: 25%;
+}
+    .menu button:hover{
+    margin: 0;
+    padding: 0;
+    width: 0;
+    height: 0;
+    color: black;
+    border-radius: 25%;
+    border-color: black;
+    border width: solid 1px;
+
+}
